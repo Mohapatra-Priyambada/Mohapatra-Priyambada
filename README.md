@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/priyambada-mohapatra/">Priyambada Mohapatra</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<p align="center>
 💻 Full Stack Developer in Progress <br/>
 🌱 Learning Node.js, Express, MongoDB<br/>
 ⚛️ Frontend Developer<br/>
 🤖 Interested in AI/ML<br/>
+</p>
 
 ## Tech Stack
 
