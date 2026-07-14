@@ -47,3 +47,10 @@ Goal:
 ⭐ Thanks for visiting my profile! ⭐
 
 </p>
+## 🐍 My Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Mohapatra-Priyambada/Mohapatra-Priyambada/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
