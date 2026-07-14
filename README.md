@@ -14,23 +14,29 @@ Frontend Developer • Full Stack Learner • AI Enthusiast
 
 ## 📈 My Learning Journey
 
+### 🎯 Frontend Mastery
+
 ```
-Frontend Mastery
-├─ HTML            ✅ Solid
-├─ CSS             ✅ Solid
-├─ JavaScript      ✅ Solid
-├─ React           🔄 In Progress
-└─ Advanced React  ⭕ Upcoming
+HTML         ████████████████████ 100% ✅
+CSS          ████████████████████ 100% ✅
+JavaScript   ███████░░░░░░░░░░░░░  35% 🔄
+```
 
-Backend Adventure
-├─ Node.js         🔄 In Progress
-├─ Express.js      🔄 In Progress
-├─ MongoDB         🔄 In Progress
-└─ REST APIs       🔄 In Progress
+### 🚀 Backend Adventure
 
-Beyond The Stack
-├─ AI/ML           ⭕ Upcoming
-└─ DevOps          ⭕ Upcoming
+```
+Node.js      ░░░░░░░░░░░░░░░░░░░░   0% ⭕
+Express.js   ░░░░░░░░░░░░░░░░░░░░   0% ⭕
+MongoDB      ░░░░░░░░░░░░░░░░░░░░   0% ⭕
+REST APIs    ░░░░░░░░░░░░░░░░░░░░   0% ⭕
+```
+
+### 🎓 Coming Next
+
+```
+React        ⭕ Upcoming
+AI/ML        ⭕ Upcoming
+DevOps       ⭕ Upcoming
 ```
 
 ---
@@ -59,7 +65,11 @@ Beyond The Stack
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <em>✨ Completed & Proficient</em>
 </p>
 
 ---
@@ -87,14 +97,6 @@ Learning Philosophy:
 Goal:
   🚀 Become an AI-powered Full Stack Engineer
 ```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohapatra-Priyambada&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
 
 ---
 
