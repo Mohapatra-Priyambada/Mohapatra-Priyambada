@@ -12,56 +12,6 @@ Frontend Developer • Full Stack Learner • AI Enthusiast
 
 ---
 
-## 📈 My Learning Journey
-
-### 🎯 Frontend Mastery
-
-```
-HTML         ████████████████████ 100% ✅
-CSS          ████████████████████ 100% ✅
-JavaScript   ███████░░░░░░░░░░░░░  35% 🔄
-```
-
-### 🚀 Backend Adventure
-
-```
-Node.js      ░░░░░░░░░░░░░░░░░░░░   0% ⭕
-Express.js   ░░░░░░░░░░░░░░░░░░░░   0% ⭕
-MongoDB      ░░░░░░░░░░░░░░░░░░░░   0% ⭕
-REST APIs    ░░░░░░░░░░░░░░░░░░░░   0% ⭕
-```
-
-### 🎓 Coming Next
-
-```
-React        ⭕ Upcoming
-AI/ML        ⭕ Upcoming
-DevOps       ⭕ Upcoming
-```
-
----
-
-## 🔥 Streak Tracker
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Current Streak</strong><br>
-      <h2>24 Days 🔥</h2>
-    </td>
-    <td align="center">
-      <strong>Longest Streak</strong><br>
-      <h2>38 Days 🏆</h2>
-    </td>
-    <td align="center">
-      <strong>Total Contributions</strong><br>
-      <h2>156 Days 📊</h2>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
