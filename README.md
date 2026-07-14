@@ -29,11 +29,6 @@ Frontend Developer • Full Stack Learner • AI Enthusiast
 ```yaml
 Role: Frontend Developer | Aspiring Full Stack Engineer
 
-Currently Mastering:
-  → React.js & Component Architecture
-  → Node.js & Express.js Fundamentals
-  → MongoDB & Database Design
-
 Passionate About:
   → Creating Beautiful & Functional UIs
   → Building Scalable Web Applications
