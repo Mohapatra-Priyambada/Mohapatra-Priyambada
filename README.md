@@ -41,14 +41,6 @@ Goal:
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
 
 </p>
----
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Mohapatra-Priyambada&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 <p align="center">
 
